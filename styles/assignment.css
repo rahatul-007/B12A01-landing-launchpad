@@ -285,6 +285,13 @@ main textarea{
     color: #8987A1;
     
 }
+/* hover */
+button:hover{
+    background-color: #FFFFFF;
+    color: #4E47FF;
+    border-color: #4E47FF;
+    box-shadow: 2px 2px 2px #4E47FF;
+}
 
 
 
