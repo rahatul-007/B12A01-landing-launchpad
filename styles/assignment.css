@@ -273,6 +273,18 @@ main textarea{
     color: #8987A1;
     font-size: 24px;
 }
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 20px;    
+    font-size: 22px;
+}
+.footer-navigation a{
+    text-decoration: none;
+    color: #8987A1;
+    
+}
 
 
 
